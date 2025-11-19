@@ -19,7 +19,8 @@
                 weight = height - 100;
                 Console.WriteLine("Hello Mr. " + name + ", your ideal weight is: " + weight + " kg");
             }
-            else if(gender == "F") { 
+            else if(gender == "F") 
+            { 
                 weight = height - 110;
                 Console.WriteLine("Hello Ms. " + name + ", your ideal weight is: " + weight + " kg");
 
